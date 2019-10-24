@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P2P1_LATV0298</string>
+    <string name="rmasculino">Masculino</string>
+    <string name="rfemenino">Femenino</string>
+    <string name="btnmensaje">MENSAJE</string>
+    <string name="txtnum1">Ingresa Numero 1</string>
+    <string name="txtnum2">Ingrese Numero 2</string>
+    <string name="msuma">Suma</string>
+    <string name="mresta">Resta</string>
+    <string name="mmultiplicacion">Multiplicacion</string>
+    <string name="mdivision">Division</string>
+    <string name="result" />
+</resources>
